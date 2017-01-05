@@ -3,3 +3,4 @@ git is free software.
 my test ok aa
 not ok
 git tracks changes of files.
+my test push it to git
